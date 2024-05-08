@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DanielAbt
 - 👀 I’m interested in DevOps culture
-- 🌱 I’m currently learning cloud DevOps
 
 - 📫 How to reach me www.linkedin.com/in/daniel-abt
 
